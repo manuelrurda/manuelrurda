@@ -22,7 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-manuelrurda@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:manuelrurda@gmail.com)](manuelrurda@gmail.com)
+<a href="mailto:manuelrurda@gmail.com"><img src="https://img.shields.io/badge/-manuelrurda@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mrurdapilleta"><img src="https://img.shields.io/badge/-Manuel%20Rodriguez%20Urdapilleta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
