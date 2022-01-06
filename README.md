@@ -1,5 +1,5 @@
 <h1 align="center">Manuel Rodriguez Urdapilleta</h1>
-<h1 align="center">Hello There <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hello There </h1>
 
 ## 🎓 National Autonomous University of Mexico
 ### *Computer Engineering Class of 2025*
